@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FingerPrint</string>
+    <string name="fingerprint_icon">Fingerprint icon</string>
+</resources>
